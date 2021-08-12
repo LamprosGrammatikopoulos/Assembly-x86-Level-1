@@ -1,3 +1,0 @@
-﻿  Assembling lab_01.asm...
-lab_01.asm(2): fatal error A1000: cannot open file : Irvine32.inc
-C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\lab_01.obj" /W3 /errorReport:prompt  /Talab_01.asm" exited with code 1.
